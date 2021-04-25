@@ -1,20 +1,20 @@
-event_type,name,Duration(minutes)
-85,Front Door,
-86,The Age of Ageing,23
-86,Cloud solutions to deliver digital transformation goals,14
-86,Extracting real business value from your public sector network investment,18
-86,Addressing the impact of COVID on public sectors,15
-86,Rise of the Machines: The importance of automation in security,20
-86,The transformative impact of staff roaming,20
-86,Plenary Session - presentation 1,16
-86,MORNING BREAK,30
-86,LUNCH BREAK,45
-86,How to keep pace with rapidly evolving demands on Public Sector Networks,23
-86,AFTERNOON BREAK,25
-86,Live Q&A with speakers from the previous 3 sessions,20
-86,Live Q&A from previous 2 sessions,10
-86,Live Q&A from previous 2 sessions and Panel debate,20
-86,Plenary Q&A,10
-86,Plenary Session - presentation 2,16
-86,Plenary Session - presentation 3,13
-86,Plenary Session - presentation 4,12
+,event_reference,event_type,name,Duration(minutes),name1
+14,Plenary Q&A,86,Plenary Q&A,10.0,Plenary Q&A - Plenary Q&A
+12,Q & A,86,Live Q&A from previous 2 sessions,10.0,Q & A - Live Q&A from previous 2 sessions
+17,n/a,86,Plenary Session - presentation 4,12.0,n/a - Plenary Session - presentation 4
+16,n/a,86,Plenary Session - presentation 3,13.0,n/a - Plenary Session - presentation 3
+2,FourNet,86,Cloud solutions to deliver digital transformation goals,14.0,FourNet - Cloud solutions to deliver digital transformation goals
+4,Virgin MB,86,Addressing the impact of COVID on public sectors,15.0,Virgin MB - Addressing the impact of COVID on public sectors
+18,n/a,86,Plenary Session - presentation 1,16.0,n/a - Plenary Session - presentation 1
+15,n/a,86,Plenary Session - presentation 2,16.0,n/a - Plenary Session - presentation 2
+3,MLL,86,Extracting real business value from your public sector network investment,18.0,MLL - Extracting real business value from your public sector network investment
+5,n/a,86,Rise of the Machines: The importance of automation in security,20.0,n/a - Rise of the Machines: The importance of automation in security
+6,Jisc,86,The transformative impact of staff roaming,20.0,Jisc - The transformative impact of staff roaming
+11,Q & A,86,Live Q&A with speakers from the previous 3 sessions,20.0,Q & A - Live Q&A with speakers from the previous 3 sessions
+13,Q&A and Panel D,86,Live Q&A from previous 2 sessions and Panel debate,20.0,Q&A and Panel D - Live Q&A from previous 2 sessions and Panel debate
+1,AdEPT,86,The Age of Ageing,23.0,AdEPT - The Age of Ageing
+9,CISCO,86,How to keep pace with rapidly evolving demands on Public Sector Networks,23.0,CISCO - How to keep pace with rapidly evolving demands on Public Sector Networks
+10,BREAK,86,AFTERNOON BREAK,25.0,BREAK - AFTERNOON BREAK
+7,BREAK,86,MORNING BREAK,30.0,BREAK - MORNING BREAK
+8,LUNCH BREAK,86,LUNCH BREAK,45.0,LUNCH BREAK - LUNCH BREAK
+0,n/a,85,Front Door,,n/a - Front Door
